@@ -1,6 +1,6 @@
 <img width="892" height="331" alt="Image" src="https://github.com/user-attachments/assets/7f4aa73a-ade4-4697-b754-b5d7128f57f6" />
-# Ok Wait For a Minute 
 
+---
 ![Build]( https://github.com/remarkjs/remark/workflows/main/badge.svg)
 ![Coverage]( https://img.shields.io/codecov/c/github/remarkjs/remark.svg)
 ![Downloads]( https://img.shields.io/npm/dm/remark.svg)
